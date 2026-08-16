@@ -391,5 +391,7 @@ See the "LICENSE" file for details.
 Listen. Think. Execute.
 
 ⭐ If you find this project useful, consider giving it a star!
+if you want all library to use jarvis run this command 
+pip install -r requirements.txt
 
 </div>
