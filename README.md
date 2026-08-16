@@ -282,7 +282,7 @@ Version 1.0
 - [x] Text-to-speech
 - [x] Basic commands
 - [x] Web search
-- [ ] AI conversations
+- [] AI conversations
 
 Version 2.0
 
@@ -372,7 +372,7 @@ Instead of learning these technologies separately, this project combines them in
 
 👨‍💻 Author
 
-Your Name
+Badal Yadav 
 
 «Building JARVIS one Python module at a time. 🐍⚡»
 
